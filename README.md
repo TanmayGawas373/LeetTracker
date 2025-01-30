@@ -53,9 +53,7 @@ This value is used to set the CSS variable `--progress-degree`, which visually r
 ##ScreenShots
 ![Screenshot 2025-01-31 000727](https://github.com/user-attachments/assets/b116ee1f-ef9c-43ae-ab14-ad5d4a6ad7d1)
 
-
-![Screenshot 2025-01-31 000812](https://github.com/user-attachments/assets/76a06eb6-8c73-4c4a-84e1-caf09876388c)
-
+![Screenshot 2025-01-31 001204](https://github.com/user-attachments/assets/d44122e1-bc24-4d0a-91c8-fe43f4a4b2dd)
 
 ## Contributing 🤝
 Contributions are welcome! Please submit a pull request or open an issue for any enhancements or bug fixes.
